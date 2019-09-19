@@ -1,0 +1,6 @@
+
+13/06/2017
+
+GE11-X-S-CERN-0003_QC4_20170613_Test_1 : Initial
+
+GE11-X-S-CERN-0003_QC4_20170613_Test_2 : Kapton-Copper sheet to shield the HV circuit on drift board

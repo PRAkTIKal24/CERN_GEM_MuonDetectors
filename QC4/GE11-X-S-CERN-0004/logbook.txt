@@ -1,0 +1,10 @@
+DET: GE11-X-S-CERN-0004
+=====
+QC4
+=====
+
+**Test Date: 05/07/2017
+Description : High rate of counts obsverved. Power on over night and repeat QC4 tommorow
+
+**Test Date: 06/07/2017
+Description : After Powering on at 3kV over night we are repeating the QC4

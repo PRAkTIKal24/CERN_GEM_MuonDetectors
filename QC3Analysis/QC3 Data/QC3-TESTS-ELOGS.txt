@@ -1,0 +1,108 @@
+
+=====================
+DETECTOR: Short 1
+
+=====================
+
+Test Date:	2017/05/02
+File:	QC3_GE11-X-S-CERN-0001_20170502_test1.xlsm
+Elog:	http://cmsonline.cern.ch/cms-elog/979820
+
+Test Date:	2017/05/02
+File:	QC3_GE11-X-S-CERN-0001_20170502_test2.xlsm
+Elog:	http://cmsonline.cern.ch/cms-elog/979820
+
+
+Test Date:	2017/05/02
+File:	QC3_GE11-X-S-CERN-0001_20170502_test3.xlsm
+Elog:	http://cmsonline.cern.ch/cms-elog/979820
+
+Test Date:	2017/03/05
+File:	QC3_GE11-X-S-CERN-0001_20170503_test4.xlsm
+Elog:	http://cmsonline.cern.ch/cms-elog/979820
+Description:	test 4:  tape on drift and RO screws + placing clamps in the four corners 
+
+
+Test Date:	2017/03/05
+File:	QC3_GE11-X-S-CERN-0001_20170503_test5.xlsm
+Elog:	http://cmsonline.cern.ch/cms-elog/979820
+
+Test Date:	2017/03/05
+File:	QC3_GE11-X-S-CERN-0001_20170503_test6.xlsm
+Elog:	http://cmsonline.cern.ch/cms-elog/979820
+
+
+=====================
+DETECTOR: Short 2
+
+=====================
+
+No data
+
+
+=====================
+DETECTOR: Short 3
+
+=====================
+
+Test Date:	2017/06/07
+File:	QC3_GE11-X-S-CERN-0003_20170607_test2.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/989551
+
+Test Date:	2017/06/07
+File:	QC3_GE11-X-S-CERN-0003_20170607_test3.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/989551
+
+Test Date:	2017/06/07
+File:	QC3_GE11-X-S-CERN-0003_20170607.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/989551
+
+Test Date:	2017/06/08
+File:	QC3_GE11-X-S-CERN-0003_20170608_test4.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/989551
+
+
+=====================
+DETECTOR: Long 1
+
+=====================
+Test Date:	2017/05/17
+File:	QC3_GE11-X-L-CERN-0001_Calibration_2017_05_17.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/983820
+
+Test Date:	2017/05/17
+File:	QC3_GE11-X-L-CERN-0001_2017_05_17.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/983820
+
+
+Test Date:	2017/05/22
+File:	QC3_GE11-X-L-CERN-0001_2017_05_22_test1.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/984997
+
+Test Date:	2017/05/22
+File:	QC3_GE11-X-L-CERN-0001_2017_05_22_test2.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/985202
+
+Test Date:	2017/05/30
+File:	QC3_GE11-X-L-CERN-0001_2017_05_30.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/987828
+
+Test Date:	2017/06/01
+File:	QC3_GE11-X-L-CERN-0001_20170601.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/988020
+
+
+
+=====================
+DETECTOR: Long 2
+
+=====================
+
+Test Date:	2017/06/01
+File:	QC3_GE11-X-L-CERN-0002_Calibration_2017_06_01.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/988203
+
+Test Date:	2017/06/01
+File:	QC3_GE11-X-L-CERN-0002_2017_06_01.xls
+Elog:	http://cmsonline.cern.ch/cms-elog/988203
+

@@ -1,0 +1,7 @@
+This chamber was initially built with a standard drift and readout planes.
+However we have notices quite a large leak rate due to low compression of the O-ring in the corners.
+We have therefore added two holes in a new drift and readout board.
+We kept the same external frame.
+
+Test 1:
+- intial gas leak test, added tape on the screw holes, both top and bottom layers.

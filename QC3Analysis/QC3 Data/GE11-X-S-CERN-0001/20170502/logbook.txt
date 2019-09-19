@@ -1,0 +1,34 @@
+======================
+GE11-X-S-CERN-0001
+======================
+
+
+**Test 1 (02/05/2017)
+
+Description : I started a QC3 run after applying 1.3 Nm torque on all screws both on the readout and the drift board.
+The chamber was opened on 28/04 and the external frame was replaced. The o-ring is the old one.
+
+
+**Test 2 (02/05/2017)
+
+Description : After putting green tape on one corner of the small base of the trapezoid
+
+
+**Test 3 (02/05/2017)
+
+Description : After placing tape both on the readout and drift screws+ readout pins
+
+
+**Test 4 (03/05/2017)
+
+Description : keeping tape on drift and RO screws + placing clamps in the four corners to better compress the O-ring.
+
+
+**Test 5 (03/05/2017)
+
+Description : keeping tape on drift and RO screws + placing clamps every 10 cm all around the chamber
+
+
+**Test 6 (03/05/2017)
+
+Description : keeping tape on drift and RO screws + placing clamps every 10 cm all around the chamber, putting kapton tape between the external frame the readout and drift on the big and small base of the trapezoid
